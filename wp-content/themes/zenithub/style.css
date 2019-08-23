@@ -1,0 +1,32 @@
+/*
+Theme Name: Zenithub
+Theme URI: https://www.zenithub.com/
+Author: Niraj Sharma
+Author URI: https://wordpress.org/
+Description:This is the theme developed for Zen IT Hub Software Development Company
+Version: 1.0
+Text Domain: zenithub
+Tags: zenithub, it company, software, digital marketing
+*/
+
+img.custom-logo{
+	width:80px !important;
+	height: 80px;
+}
+div.owl-item.active{
+	width: 255px;
+}
+@media screen and (max-width: 992px){
+	img.custom-logo{
+	width:60px !important;
+	height: 60px;
+}
+
+ }
+
+#fld_7908577_1{
+	    background-color: #2bc0a4;
+    float: right;
+    color: #fff;
+}
+
